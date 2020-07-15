@@ -1,2 +1,2 @@
 # Launchy Config
-## [iexample](example.png)
+## ![example](example.png)
