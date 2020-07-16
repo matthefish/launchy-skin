@@ -1,2 +1,4 @@
 # Launchy Config
-## ![example](example.PNG)
+## ![example](skin.PNG)
+
+
